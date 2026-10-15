@@ -124,7 +124,3 @@ A custom operator can continuously monitor cluster events and enforce organizati
 Existing compliance tools provide profile-based scanning, but they do not provide continuous, event-driven enforcement of all organization-specific security policies across the cluster.
 
 ---
-
-
-
-[Updating a disconnected cluster using the OpenShift Update Service (OSUS)](https://docs.redhat.com/en/documentation/openshift_container_platform/4.21/html-single/disconnected_environments/index#updating-disconnected-cluster-osus)
